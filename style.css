@@ -1,0 +1,21 @@
+.container{
+    width: 300px;
+    height: 200px;
+    border-width: 30px;
+    border-style: solid;
+    border-image-source: url('fondo.jpg');
+    border-image-slice: 30;
+    border-image-repeat: round;
+   
+    
+}
+
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 280px;
+     
+}
+
